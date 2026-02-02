@@ -1,6 +1,6 @@
 Hi, I’m Ankit Anand.
 
-I’m a builder focused on decentralized systems, AI-driven products, and real-world financial infrastructure. I learn by building, and I build with the intention that systems should work outside demos.
+I’m a builder focused on decentralized systems, AI-driven products and real-world financial infrastructure. I learn by building and I build with the intention that systems should work outside demos.
 
 4× 🏆 Hackathon   
 Areas I enjoy working in: Web3 payments, Backend systems, Frontend and product-focused engineering.
