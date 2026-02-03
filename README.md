@@ -29,6 +29,6 @@ A unified finance and fund management platform focused on simplifying capital fl
 ## Current Focus
 
 Designing autonomous agent workflows and payment infrastructure  
-Exploring AI + blockchain intersections beyond hype  
+Exploring AI + blockchain intersections 
 Building hackathon projects with production-level thinking  
 Learning deeply by shipping fast and iterating in public
