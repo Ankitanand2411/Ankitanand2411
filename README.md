@@ -10,7 +10,6 @@ Areas I enjoy working in: Web3 payments, Backend systems, Frontend and product-f
 ## Selected Projects
 
 **AgentPay** — https://agent-x402.vercel.app/
-
 A decentralized AI agent platform where autonomous agents can discover tools, choose services, and make on-chain payments independently.
 
 **Push Payroll** — https://push-payroll.vercel.app/  
