@@ -9,24 +9,19 @@ Areas I enjoy working in: Web3 payments, Backend systems, Frontend and product-f
 
 ## Selected Projects
 
-**AgentPay**  
-https://agent-x402.vercel.app/  
+**AgentPay** — https://agent-x402.vercel.app/  
 A decentralized AI agent platform where autonomous agents can discover tools, choose services, and make on-chain payments independently.
 
-**Push Payroll**  
-https://push-payroll.vercel.app/  
+**Push Payroll** — https://push-payroll.vercel.app/  
 A modern decentralized payroll management system built on Push Chain.
 
-**AgroBase**  
-https://agrobase-africa.vercel.app/  
+**AgroBase** — https://agrobase-africa.vercel.app/  
 A Web3-powered microfinance and insurance platform aimed at empowering smallholder farmers in Africa.
 
-**NeoLearn**  
-https://neo-learn-fawn.vercel.app/  
+**NeoLearn** — https://neo-learn-fawn.vercel.app/  
 An adaptive learning platform powered by LLMs.
 
-**UniFund**  
-https://uni-fund-push.vercel.app/  
+**UniFund** — https://uni-fund-push.vercel.app/  
 A unified finance and fund management platform focused on simplifying capital flow, tracking, and transparency across systems.
 
 ---
