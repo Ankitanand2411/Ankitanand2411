@@ -23,14 +23,6 @@ I learn by building, and I build so that things keep working after the demo ends
 | [NeoLearn](https://neo-learn-fawn.vercel.app/) | Adaptive learning through dialogue with LLM-driven historical mentors. | [NeoLearnV2](https://github.com/Ankitanand2411/NeoLearnV2) |
 | [UniFund](https://uni-fund-push.vercel.app/) | Unified fund management: capital flow, tracking, and transparency in one place. | |
 
-## Stack
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,vite,tailwind,nodejs,fastapi,postgres,mongodb,supabase,solidity,docker&theme=dark&perline=7">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,vite,tailwind,nodejs,fastapi,postgres,mongodb,supabase,solidity,docker&theme=light&perline=7" alt="TypeScript, JavaScript, Python, React, Next.js, Vite, Tailwind CSS, Node.js, FastAPI, PostgreSQL, MongoDB, Supabase, Solidity, Docker" />
-</picture>
-
-Agent work runs on LangGraph with Gemini and Groq. On-chain pieces use Solidity, ethers.js, and web3.py.
 
 ## Focus
 
