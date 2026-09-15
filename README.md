@@ -31,22 +31,6 @@ I learn by building, and I build so that things keep working after the demo ends
 - Hackathon projects built with production-level thinking
 - Shipping fast and iterating in public
 
-<details>
-<summary>GitHub stats</summary>
-<br/>
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Ankitanand2411&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&theme=github_dark">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankitanand2411&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&theme=default" alt="GitHub stats" height="165" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitanand2411&layout=compact&hide_border=true&bg_color=00000000&theme=github_dark&langs_count=6&hide=css,html,plpgsql">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitanand2411&layout=compact&hide_border=true&bg_color=00000000&theme=default&langs_count=6&hide=css,html,plpgsql" alt="Top languages" height="165" />
-</picture>
-</div>
-</details>
-
-<br/>
 
 <div align="center">
 <sub>Systems should work outside demos.</sub>
