@@ -1,40 +1,61 @@
-Hi, I’m Ankit Anand.
+<div align="center">
 
-I’m a builder focused on decentralized systems, AI-driven products and real-world financial infrastructure. I learn by building and I build with the intention that systems should work outside demos.
+# Ankit Anand
 
-5x 🏆 Hackathon  
-Areas I enjoy working in: Web3 payments, Backend systems, Frontend and product-focused engineering.
+Building decentralized systems, AI-driven products, and real-world financial infrastructure.
 
----
+<a href="https://x.com/Ankitanand2411"><img src="https://img.shields.io/badge/%40Ankitanand2411-000000?style=flat&logo=x&logoColor=white" alt="X (Twitter)" /></a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Ankitanand2411&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
-## Selected Projects
+</div>
 
-**AgentPay** — https://agent402-goodvibes.vercel.app/
+<br/>
 
-A decentralized AI agent platform where autonomous agents can discover tools, choose services, and make on-chain payments independently.
+I learn by building, and I build so that things keep working after the demo ends. Five hackathon wins so far, mostly at the intersection of Web3 payments, backend systems, and product-focused frontend.
 
-**Push Payroll** — https://push-payroll.vercel.app/ 
+## Projects
 
-A modern decentralized payroll management system built on Push Chain.
+| Project | What it does | Code |
+|:--|:--|:--|
+| [AgentPay](https://agent402-goodvibes.vercel.app/) | AI agents that discover tools, choose services, and pay for them on-chain, with no human in the payment loop. | [Agent-402](https://github.com/Ankitanand2411/Agent-402) |
+| [Push Payroll](https://push-payroll.vercel.app/) | Decentralized payroll management built on Push Chain. | [Push-Payroll](https://github.com/Ankitanand2411/Push-Payroll) |
+| [AgroBase](https://agrobase-africa.vercel.app/) | Web3 microfinance and insurance for smallholder farmers in Africa. | [Agrobase](https://github.com/Ankitanand2411/Agrobase) |
+| [NeoLearn](https://neo-learn-fawn.vercel.app/) | Adaptive learning through dialogue with LLM-driven historical mentors. | [NeoLearnV2](https://github.com/Ankitanand2411/NeoLearnV2) |
+| [UniFund](https://uni-fund-push.vercel.app/) | Unified fund management: capital flow, tracking, and transparency in one place. | |
 
-**AgroBase** — https://agrobase-africa.vercel.app/  
+## Stack
 
-A Web3-powered microfinance and insurance platform aimed at empowering smallholder farmers in Africa.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,vite,tailwind,nodejs,fastapi,postgres,mongodb,supabase,solidity,docker&theme=dark&perline=7">
+  <img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,vite,tailwind,nodejs,fastapi,postgres,mongodb,supabase,solidity,docker&theme=light&perline=7" alt="TypeScript, JavaScript, Python, React, Next.js, Vite, Tailwind CSS, Node.js, FastAPI, PostgreSQL, MongoDB, Supabase, Solidity, Docker" />
+</picture>
 
-**NeoLearn** — https://neo-learn-fawn.vercel.app/ 
+Agent work runs on LangGraph with Gemini and Groq. On-chain pieces use Solidity, ethers.js, and web3.py.
 
-An adaptive learning platform powered by LLMs.
+## Focus
 
-**UniFund** — https://uni-fund-push.vercel.app/  
+- Autonomous agent workflows and the payment rails they need
+- Where AI and blockchain overlap in practice, not just on paper
+- Hackathon projects built with production-level thinking
+- Shipping fast and iterating in public
 
-A unified finance and fund management platform focused on simplifying capital flow, tracking, and transparency across systems.
+<details>
+<summary>GitHub stats</summary>
+<br/>
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Ankitanand2411&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&theme=github_dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ankitanand2411&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&theme=default" alt="GitHub stats" height="165" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitanand2411&layout=compact&hide_border=true&bg_color=00000000&theme=github_dark&langs_count=6&hide=css,html,plpgsql">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitanand2411&layout=compact&hide_border=true&bg_color=00000000&theme=default&langs_count=6&hide=css,html,plpgsql" alt="Top languages" height="165" />
+</picture>
+</div>
+</details>
 
----
+<br/>
 
-## Current Focus
-
-- Designing autonomous agent workflows and payment infrastructure  
-- Exploring AI + blockchain intersections  
-- Building hackathon projects with production-level thinking  
-- Learning deeply by shipping fast and iterating in public
-
+<div align="center">
+<sub>Systems should work outside demos.</sub>
+</div>
