@@ -15,7 +15,7 @@ I learn by building and I build with the intention that systems should work outs
 
 ## Four numbers
 
-- **8 days** to a live booking platform, 100+ dentists on it now
+- **8 days** to a live booking platform
 - **1** AI agent that holds a wallet and pays for its own tools
 - **5** hackathon wins, all inside 36 hours
 - **0** rupees of ad spend behind my studio's paying clients
