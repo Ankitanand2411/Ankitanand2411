@@ -4,8 +4,6 @@
 
 AI engineer, 21, from Delhi. I build Python AI agents, RAG pipelines and multi-step workflows.
 
-<a href="https://www.vaksutra-ai.me/"><img src="https://img.shields.io/badge/VakSutra-vaksutra--ai.me-0e75b6?style=flat" alt="VakSutra" /></a>&nbsp;
-<a href="https://agent402-goodvibes.vercel.app/"><img src="https://img.shields.io/badge/Agent402-live-000000?style=flat" alt="Agent402" /></a>&nbsp;
 <a href="https://x.com/Ankitanand2411"><img src="https://img.shields.io/badge/%40Ankitanand2411-000000?style=flat&logo=x&logoColor=white" alt="X (Twitter)" /></a>&nbsp;
 <img src="https://komarev.com/ghpvc/?username=Ankitanand2411&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
