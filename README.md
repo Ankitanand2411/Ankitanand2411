@@ -13,8 +13,6 @@ AI engineer, 21, from Delhi. I build Python AI agents, RAG pipelines and multi-s
 
 I learn by building and I build with the intention that systems should work outside demos. Hands-on with FastAPI, REST APIs, prompt engineering and structured JSON outputs.
 
-Final-year CS (Data Science) student at JSS Academy of Technical Education, Noida. Looking for an internship: available now, open to relocating anywhere.
-
 ## Four numbers
 
 - **$2,000** for winning EdTech Hackathon 2025 with NeoLearn, among 200+ teams
