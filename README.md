@@ -34,13 +34,6 @@ AI engineer, 21, from Delhi. I build Python AI agents, RAG pipelines and multi-s
 - **Backend:** Python, FastAPI, Django REST Framework, Node.js, async processing, SSE streaming
 - **Data:** Pinecone, PostgreSQL (Supabase), MongoDB, Redis, Pydantic, pytest
 - **Frontend:** Next.js, React, TypeScript
-
-## What I haven't solved
-
-- Cost-aware selection has no quality signal. The agent picks cheapest and will choose worse to save money.
-- Staleness in persisted state. NeoLearn stores diagnosed gaps but never knew when a stored belief went stale.
-- The sandbox is process isolation, not a capability boundary.
-
 <div align="center">
 <sub>Systems should work outside demos.</sub>
 </div>
