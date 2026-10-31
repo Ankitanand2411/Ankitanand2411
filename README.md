@@ -11,7 +11,7 @@ AI engineer, 21, from Delhi. I build Python AI agents, RAG pipelines and multi-s
 
 <br/>
 
-I learn by building and I build with the intention that systems should work outside demos. Deployed AskAI at Cognify Systems with LangChain/LangGraph, Pinecone retrieval and Groq-hosted LLaMA 3.1. Hands-on with FastAPI, REST APIs, prompt engineering and structured JSON outputs.
+I learn by building and I build with the intention that systems should work outside demos. Hands-on with FastAPI, REST APIs, prompt engineering and structured JSON outputs.
 
 Final-year CS (Data Science) student at JSS Academy of Technical Education, Noida. Looking for an internship: available now, open to relocating anywhere.
 
