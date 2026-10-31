@@ -10,7 +10,6 @@ AI engineer, 21, from Delhi. I build Python AI agents, RAG pipelines and multi-s
 </div>
 
 <br/>
-
 ## Four numbers
 
 - **$2,000** for winning EdTech Hackathon 2025 with NeoLearn, among 200+ teams
