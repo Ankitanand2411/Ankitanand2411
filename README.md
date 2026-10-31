@@ -2,8 +2,10 @@
 
 # Ankit Anand
 
-Backend and AI engineer, 21, from Delhi.
+AI engineer, 21, from Delhi. I build Python AI agents, RAG pipelines and multi-step workflows.
 
+<a href="https://www.vaksutra-ai.me/"><img src="https://img.shields.io/badge/VakSutra-vaksutra--ai.me-0e75b6?style=flat" alt="VakSutra" /></a>&nbsp;
+<a href="https://agent402-goodvibes.vercel.app/"><img src="https://img.shields.io/badge/Agent402-live-000000?style=flat" alt="Agent402" /></a>&nbsp;
 <a href="https://x.com/Ankitanand2411"><img src="https://img.shields.io/badge/%40Ankitanand2411-000000?style=flat&logo=x&logoColor=white" alt="X (Twitter)" /></a>&nbsp;
 <img src="https://komarev.com/ghpvc/?username=Ankitanand2411&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
@@ -11,24 +13,34 @@ Backend and AI engineer, 21, from Delhi.
 
 <br/>
 
-I learn by building and I build with the intention that systems should work outside demos. Final-year CS student. Looking for an internship: available now, open to relocating anywhere.
+I learn by building and I build with the intention that systems should work outside demos. Deployed AskAI at Cognify Systems with LangChain/LangGraph, Pinecone retrieval and Groq-hosted LLaMA 3.1. Hands-on with FastAPI, REST APIs, prompt engineering and structured JSON outputs.
+
+Final-year CS (Data Science) student at JSS Academy of Technical Education, Noida. Looking for an internship: available now, open to relocating anywhere.
 
 ## Four numbers
 
-- **8 days** to a live booking platform
-- **1** AI agent that holds a wallet and pays for its own tools
-- **5** hackathon wins, all inside 36 hours
-- **0** rupees of ad spend behind my studio's paying clients
+- **$2,000** for winning EdTech Hackathon 2025 with NeoLearn, among 200+ teams
+- **$1,300** in accelerator funding for Agent402 after winning Hackemon 2025 (Sponsored Track), among 630+ teams
+- **1** AI agent that generates its own tool schemas at runtime and waits for a human before it acts
+- **2 minutes** of on-camera speaking is all VakSutra needs to score your eye contact, pace and confidence
 
 ## Projects
 
 | Project | What it does | Code |
 |:--|:--|:--|
-| [AgentPay](https://agent402-goodvibes.vercel.app/) | AI agents that discover tools, choose services, and pay for them on-chain, with no human in the payment loop. | [Agent-402](https://github.com/Ankitanand2411/Agent-402) |
-| [NeoLearn](https://neo-learn-fawn.vercel.app/) | Adaptive learning through dialogue with LLM-driven historical mentors. | [NeoLearnV2](https://github.com/Ankitanand2411/NeoLearnV2) |
+| [VakSutra AI](https://www.vaksutra-ai.me/) | Multimodal speaking and interview coach (public beta). Scores eye contact, filler words, pacing and confidence from a 2-minute session using Whisper timestamps, MediaPipe gaze tracking and rubric-based LLM judging. | [Vaksutra](https://github.com/Ankitanand2411/Vaksutra) |
+| [Agent402](https://agent402-goodvibes.vercel.app/) | Autonomous AI payment orchestration. Gemini multi-turn tool calling, a hot-reload registry that generates tool schemas at runtime, and MongoDB-backed human approval gates. | [Agent-402](https://github.com/Ankitanand2411/Agent-402) |
+| [NeoLearn](https://neo-learn-fawn.vercel.app/) | Curriculum-grounded retrieval over structured syllabus data, an ability-estimation model and LLM-as-judge grading. Won EdTech Hackathon 2025. | [NeoLearnV2](https://github.com/Ankitanand2411/NeoLearnV2) |
+| [AgroBase](https://agrobase-africa.vercel.app/) | Web3 credit platform for smallholder farmers. Special Honour at the Ethnile Hackathon. | [Agrobase](https://github.com/Ankitanand2411/Agrobase) |
 | [Push Payroll](https://push-payroll.vercel.app/) | Decentralized payroll management built on Push Chain. | [Push-Payroll](https://github.com/Ankitanand2411/Push-Payroll) |
-| [AgroBase](https://agrobase-africa.vercel.app/) | Web3 microfinance and insurance for smallholder farmers in Africa. | [Agrobase](https://github.com/Ankitanand2411/Agrobase) |
-| [UniFund](https://uni-fund-push.vercel.app/) | Unified fund management: capital flow, tracking, and transparency in one place. | |
+
+## Stack
+
+- **Agentic AI:** LangChain, LangGraph, tool calling, agent graphs and intent routing, RAG, structured JSON outputs, human approval workflows, LLM-as-judge evaluation
+- **Models:** Groq (LLaMA 3.1, Whisper large-v3), Gemini, Mistral, Hugging Face Hub, MediaPipe, OpenCV, FFmpeg, NumPy
+- **Backend:** Python, FastAPI, Django REST Framework, Node.js, async processing, SSE streaming
+- **Data:** Pinecone, PostgreSQL (Supabase), MongoDB, Redis, Pydantic, pytest
+- **Frontend:** Next.js, React, TypeScript
 
 ## What I haven't solved
 
